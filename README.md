@@ -1,2 +1,2 @@
-# CSS-Buttons
+# CSS Buttons
 Different types of CSS for Buttons.
